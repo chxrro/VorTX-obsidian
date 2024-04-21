@@ -11,8 +11,12 @@
             "id": "6fdcf476e26c7d27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "is git working.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "is git working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "is git working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "is git working.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,6 +147,7 @@
   },
   "active": "6fdcf476e26c7d27",
   "lastOpenFiles": [
+    "is git working.md",
     "Subsytems/Drive.md",
     "VorTX programming.md",
     "Subsytems/Shooter.md",
